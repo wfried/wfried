@@ -1,4 +1,4 @@
-# **Hi there, I'm Will Friedman 👋**
+# **Hi, I'm Will Friedman**
 
 **Product Leader & AI-Native Builder**
 
