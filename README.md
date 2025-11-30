@@ -17,7 +17,7 @@ I treat myself as "Customer Zero" for the AI coding lifecycle. Here are a few th
 
 ### **🛠️ Tech Stack & Tools**
 
-* **AI Pair Programming:** Cursor, Claude 3.5 Sonnet  
+* **AI Pair Programming:** Cursor, Google Antigravity, Claude Code
 * **Focus Areas:** Generative AI, RCM/EHR Integrations, Platform Strategy, API Ecosystems
 
 ### **📫 Connect with Me**
