@@ -2,7 +2,7 @@
 
 **Product Leader & AI-Native Builder**
 
-I'm a Product Executive with 20+ years of experience scaling platforms and developer ecosystems (Headspace, 98point6, Microsoft). I've evolved from a Technical Evangelist into a Product Leader and hands-on **AI Practitioner**, using tools like Cursor, Copilot, and Claude to build software myself.
+I'm a Product Executive with 20+ years of experience scaling platforms and developer ecosystems (Headspace, 98point6, Microsoft). I've evolved from a Technical Evangelist into a Product Leader and hands-on **AI Practitioner**, using tools like Cursor, Google Antigravity, and Claude Code to build software myself.
 
 I believe in dogfooding developer tools to understand the *actual* workflows we aim to accelerate.
 
