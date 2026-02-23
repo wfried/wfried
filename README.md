@@ -2,7 +2,7 @@
 
 **Product Leader & AI-Native Builder**
 
-I'm a hands-on product entrepreneur with 20+ years of experience scaling platforms and developer ecosystems (Microsoft, Headspace, 98point6). I've evolved from a Technical Evangelist into a Product Leader and hands-on **AI Practitioner**, using tools like Cursor, Google Antigravity, and Claude Code to build software myself.
+I'm a hands-on product entrepreneur with 20+ years of experience scaling platforms and developer ecosystems (Microsoft, Headspace, 98point6). Trained as a Computer Engineer, I've evolved from a Technical Evangelist into a Product Leader and hands-on **AI Practitioner**, using tools like Cursor, Google Antigravity, and Claude Code to build software myself.
 
 The nature of product management is changing quickly, and you need to use agentic coding AI tools very frequently to understand the transition.
 
