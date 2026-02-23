@@ -6,6 +6,8 @@ I'm a hands-on product entrepreneur with 20+ years of experience scaling platfor
 
 The nature of product management is changing quickly, and you need to use agentic coding AI tools very frequently to understand the transition.
 
+As such, I'm hosting a Seattle Meetup of Agentic Coders, with engineers and product leaders to learn from each other and stay versed in the state of the art.
+
 ### **🚀 What I'm Building (AI & DevTools)**
 
 Here are a few things I've built recently using AI assisted tools:
